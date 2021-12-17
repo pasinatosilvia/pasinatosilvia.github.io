@@ -12,4 +12,4 @@ Escribe algo sobre tí
 
 ### Contact me
 
-[email@domain.com](mailto:pasinatosilvia@gmail.com)
+[Send me an email](mailto:pasinatosilvia@gmail.com)
